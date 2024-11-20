@@ -1,1 +1,7 @@
 Flask==3.0.3
+Flask
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-WTF
+Flask-Migrate
+Flask==3.0.3
